@@ -1,0 +1,7 @@
+salario=int(input("Cual es su salario base: ",))
+horas=int(input("cuantas horas extas hace: ",))
+valorhora=int(input("valor de hora extra: ",))
+valorhora1=(valorhora*1.5)
+pagox=(horas*valorhora1)
+salariot=(salario+pagox)
+print("el resultado es: ",salariot)
