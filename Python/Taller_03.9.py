@@ -7,4 +7,4 @@ if cli==1:
 elif cli==2: 
     print("tienes 5 porciento de descuento")
 else:
-    print("ERROR")
+    print("ERROR Fatal")
